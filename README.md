@@ -2,7 +2,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=p-mayor&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-mayor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-mayor&exclude_repo=mvcmovie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
